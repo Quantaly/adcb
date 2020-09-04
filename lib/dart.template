@@ -1,0 +1,8 @@
+import 'package:angular/angular.dart';
+
+@Component(
+  selector: 'PREFIX-NAME',
+  templateUrl: 'FILENAME.html',
+  styleUrls: ['FILENAME.css'],
+)
+class CLASSNAME {}

@@ -1,0 +1,20 @@
+name: adcb
+description: A package for generating the minimum necessary code for an AngularDart component.
+version: 0.1.0
+author: Kai Page <kai@quantaly.net>
+repository: https://github.com/Quantaly/adcb
+executables:
+  adcb:
+
+environment:
+  sdk: '>=2.8.1 <3.0.0'
+
+dependencies:
+  args: ^1.6.0
+  path: ^1.7.0
+  resource_portable: ^2.1.0
+
+dev_dependencies:
+  quantaly_lints:
+    git:
+      url: https://github.com/Quantaly/dart_lints
