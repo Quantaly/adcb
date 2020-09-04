@@ -1,7 +1,6 @@
 name: adcb
 description: A package for generating the minimum necessary code for an AngularDart component.
 version: 0.1.0
-author: Kai Page <kai@quantaly.net>
 repository: https://github.com/Quantaly/adcb
 executables:
   adcb:
